@@ -1,0 +1,52 @@
+#navbar {
+	font-family: Calibri;
+	background-color: darkgray;
+}
+
+.jumbotron {
+    text-align: center;
+    background-color: #3fbdf1;
+    color: white;
+    font-family: Corbel; Calibri; sans-serif;
+    font-style: italic;
+    border-radius: 30px;
+    border-style: solid;
+    border-color: darkgray;
+    border-width: 2px;
+    margin-top: 10px;
+    -webkit-box-shadow: -3px 5px 5px -2px rgba(11,26,31,1);
+    -moz-box-shadow: -3px 5px 5px -2px rgba(11,26,31,1);
+    box-shadow: -3px 5px 5px -2px rgba(11,26,31,1);
+    padding: 20px;
+
+
+    
+}
+
+
+th, td {
+    text-align: center;
+}
+
+
+body {
+    background-color: cornflowerblue;
+    color: #black;
+}
+
+#tableSection, #formSection {
+    background-color: white;
+    padding: 30px;
+    margin-bottom: 25px;
+    border-radius: 10px;    
+    border-style: solid;
+    border-color: darkgray;
+    border-width: 2px;
+    -webkit-box-shadow: -3px 5px 5px -2px rgba(11,26,31,1);
+    -moz-box-shadow: -3px 5px 5px -2px rgba(11,26,31,1);
+    box-shadow: -3px 5px 5px -2px rgba(11,26,31,1);
+
+    
+    
+}
+
